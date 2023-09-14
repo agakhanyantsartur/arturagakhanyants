@@ -1,1 +1,1 @@
-# https://arturagakhanyants.vercel.app
+# https://arturagakhanyants.app
